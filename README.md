@@ -1,4 +1,4 @@
-# Dalion_CMSC191_FInalProject
+# Dalion_CMSC191_FinalProject
 
 Real-Time Face Blurring and Anonymization App
 
